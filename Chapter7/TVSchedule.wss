@@ -1,0 +1,637 @@
+<site version="3.0"><css/><components/><page id="p1510703" pageindex="0" name="index" pp="0" cp="0"><body bgoutput="" bgsoutput=""><Component type="3" id="image1" zorder="0" filename="image1700234" left="0" top="0" width="1436" height="1080" originwidth="1920" originheight="1080" src="D:\MyFIles\IT273 Web Systems\Ruel\dgbg.png" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\dgbg.png" lock="1" thumbname="thumb2558859" resamplename="img2558859" exportfilename="images/dgbg.png"/><Component type="4" id="shape1" zorder="1" filename="shape1798281" width="228" height="45" bgcolor="#00CCFF" previewfile="" left="640" top="18" spborder="1" borderstyle="1" bordercolor="#000000" borderwidth="1" fillstyle="0" lock="1" fp="0" exportfilename="images/shape1798281.gif"/><Component type="2" id="text1" zorder="2" filename="text1877218" left="670" top="23" width="165" height="30" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:29px;"&gt;&lt;B&gt;TELEBABAD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws22"&gt;&lt;B&gt;TELEBABAD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCFgVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANClRFTEVCQUJBRA0K
+</rvf></Component><Component type="2" id="text2" zorder="3" filename="text2062812" left="601" top="69" width="304" height="44" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:35px;"&gt;&lt;B&gt;MONDAY - FRIDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws26"&gt;&lt;B&gt;MONDAY - FRIDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCGgVTdHlsZQsGZnNCb2xkAAAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCk1PTkRBWSAtIEZSSURBWQ0K
+</rvf></Component><Component type="15" id="table1" zorder="4" filename="table3239484" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" width="1197" height="514" left="128" top="153" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#FFFFFF" border=1 bordercolorlight="#C0C0C0" bordercolordark="#808080"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;SCHEDULES&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=125 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;5:00 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=134 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;6:25 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=129 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;6:30 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=135 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;7:40 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=133 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;7:45 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=132 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;8:30 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=130 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;8:35 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD width=118 height=33&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;9:10 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=82&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;MONDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=81&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;TUESDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=84&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;WEDNESDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=84&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;THURSDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=85&gt;&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;FRIDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#FFFFFF" border=1 bordercolorlight="#C0C0C0" bordercolordark="#808080"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;SCHEDULES&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=125 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;5:00 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=134 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;6:25 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=129 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;6:30 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=135 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;7:40 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=133 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;7:45 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=132 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;8:30 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=130 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;8:35 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD width=118 height=33&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;9:10 PM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=82&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;MONDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=82&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=81&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;TUESDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=81&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=84&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;WEDNESDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=84&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;THURSDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=84&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=100 height=85&gt;&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;FRIDAY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;TD colspan=2 height=85&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQrp
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYNUHJvdGVjdCBUYWJsZQhTdGFuZGFyZAgHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBh
+b1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYP
+UGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAtNjAgMyAxIDAgMiAwIA0KZWRpdHRh
+YmxlDQoxDQrABwAAVFBGMApUUlZUYWJsZVNXABJULlRleHRSb3dTZXBhcmF0b3IGAg0KElQuVGV4
+dENvbFNlcGFyYXRvcgYCDQoNVC5Cb3JkZXJXaWR0aAIBDVQuQm9yZGVyQ29sb3IHBmNsR3JheRJU
+LkJvcmRlckxpZ2h0Q29sb3IHCGNsU2lsdmVyDVQuQm9yZGVyU3R5bGUHD3J2dGJSYWlzZWRDb2xv
+chFULkNlbGxCb3JkZXJXaWR0aAIBEVQuQ2VsbEJvcmRlckNvbG9yBwZjbEdyYXkWVC5DZWxsQm9y
+ZGVyTGlnaHRDb2xvcgcIY2xTaWx2ZXIRVC5DZWxsQm9yZGVyU3R5bGUHEHJ2dGJMb3dlcmVkQ29s
+b3IBQwIGAgkBAgECAQJURAALQy5CZXN0V2lkdGgCZAxDLkJlc3RIZWlnaHQCIQZDLkRhdGEKJAAA
+ACAAAAAtOCAxIDMNCjEgMSAyIDAgMCAwDQpTQ0hFRFVMRVMNCgAAAgECAQJURAALQy5CZXN0V2lk
+dGgCfQxDLkJlc3RIZWlnaHQCIQZDLkRhdGEKIgAAAB4AAAAtOCAxIDMNCjEgMSAyIDAgMCAwDQo1
+OjAwIFBNDQoAAAIBAgECVEQAC0MuQmVzdFdpZHRoA4YADEMuQmVzdEhlaWdodAIhBkMuRGF0YQoi
+AAAAHgAAAC04IDEgMw0KMSAxIDIgMCAwIDANCjY6MjUgUE0NCgAAAgECAQJURAALQy5CZXN0V2lk
+dGgDgQAMQy5CZXN0SGVpZ2h0AiEGQy5EYXRhCiIAAAAeAAAALTggMSAzDQoxIDEgMiAwIDAgMA0K
+NjozMCBQTQ0KAAACAQIBAlREAAtDLkJlc3RXaWR0aAOHAAxDLkJlc3RIZWlnaHQCIQZDLkRhdGEK
+IgAAAB4AAAAtOCAxIDMNCjEgMSAyIDAgMCAwDQo3OjQwIFBNDQoAAAIBAgECVEQAC0MuQmVzdFdp
+ZHRoA4UADEMuQmVzdEhlaWdodAIhBkMuRGF0YQoiAAAAHgAAAC04IDEgMw0KMSAxIDIgMCAwIDAN
+Cjc6NDUgUE0NCgAAAgECAQJURAALQy5CZXN0V2lkdGgDhAAMQy5CZXN0SGVpZ2h0AiEGQy5EYXRh
+CiIAAAAeAAAALTggMSAzDQoxIDEgMiAwIDAgMA0KODozMCBQTQ0KAAACAQIBAlREAAtDLkJlc3RX
+aWR0aAOCAAxDLkJlc3RIZWlnaHQCIQZDLkRhdGEKIgAAAB4AAAAtOCAxIDMNCjEgMSAyIDAgMCAw
+DQo4OjM1IFBNDQoAAAIBAgECVEQAC0MuQmVzdFdpZHRoAnYMQy5CZXN0SGVpZ2h0AiEGQy5EYXRh
+CiIAAAAeAAAALTggMSAzDQoxIDEgMiAwIDAgMA0KOToxMCBQTQ0KAAACAQIBAlREAAtDLkJlc3RX
+aWR0aAJkDEMuQmVzdEhlaWdodAJSBkMuRGF0YQohAAAAHQAAAC04IDEgMw0KMSAxIDIgMCAwIDAN
+Ck1PTkRBWQ0KAAACAgIBAlREAAxDLkJlc3RIZWlnaHQCUgAAAgICAQJURAAMQy5CZXN0SGVpZ2h0
+AlIAAAICAgECVEQADEMuQmVzdEhlaWdodAJSAAACAgIBAlREAAxDLkJlc3RIZWlnaHQCUgAAAgEC
+AQJURAALQy5CZXN0V2lkdGgCZAxDLkJlc3RIZWlnaHQCUQZDLkRhdGEKIgAAAB4AAAAtOCAxIDMN
+CjEgMSAyIDAgMCAwDQpUVUVTREFZDQoAAAICAgECVEQADEMuQmVzdEhlaWdodAJRAAACAgIBAlRE
+AAxDLkJlc3RIZWlnaHQCUQAAAgICAQJURAAMQy5CZXN0SGVpZ2h0AlEAAAICAgECVEQADEMuQmVz
+dEhlaWdodAJRAAACAQIBAlREAAtDLkJlc3RXaWR0aAJkDEMuQmVzdEhlaWdodAJUBkMuRGF0YQok
+AAAAIAAAAC04IDEgMw0KMSAxIDIgMCAwIDANCldFRE5FU0RBWQ0KAAACAgIBAlREAAxDLkJlc3RI
+ZWlnaHQCVAAAAgICAQJURAAMQy5CZXN0SGVpZ2h0AlQAAAICAgECVEQADEMuQmVzdEhlaWdodAJU
+AAACAgIBAlREAAxDLkJlc3RIZWlnaHQCVAAAAgECAQJURAALQy5CZXN0V2lkdGgCZAxDLkJlc3RI
+ZWlnaHQCVAZDLkRhdGEKIwAAAB8AAAAtOCAxIDMNCjEgMSAyIDAgMCAwDQpUSFVSU0RBWQ0KAAAC
+AgIBAlREAAxDLkJlc3RIZWlnaHQCVAAAAgICAQJURAAMQy5CZXN0SGVpZ2h0AlQAAAICAgECVEQA
+DEMuQmVzdEhlaWdodAJUAAACAgIBAlREAAxDLkJlc3RIZWlnaHQCVAAAAgECAQJURAALQy5CZXN0
+V2lkdGgCZAxDLkJlc3RIZWlnaHQCVQZDLkRhdGEKIQAAAB0AAAAtOCAxIDMNCjEgMSAyIDAgMCAw
+DQpGUklEQVkNCgAAAgICAQJURAAMQy5CZXN0SGVpZ2h0AlUAAAICAgECVEQADEMuQmVzdEhlaWdo
+dAJVAAACAgIBAlREAAxDLkJlc3RIZWlnaHQCVQAAAgICAQJURAAMQy5CZXN0SGVpZ2h0AlUAAAAA
+AA==
+</rvf></Component><Component type="3" id="image2" zorder="5" filename="image4359203" left="510" top="195" width="143" height="68" originwidth="960" originheight="707" src="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" thumbname="thumb5401203" resamplename="img5401218" exportfilename="images/24Oras.jpg" lock="1"/><Component type="2" id="text3" zorder="6" filename="text4445578" left="665" top="209" width="94" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KMjQg
+T1JBUw0KTkVXUyBUVg0K
+</rvf></Component><Component type="3" id="image3" zorder="7" filename="image4558015" left="511" top="279" width="143" height="68" originwidth="960" originheight="707" src="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" thumbname="thumb5401218" resamplename="img5401234" exportfilename="images/24Oras.jpg" lock="1"/><Component type="2" id="text4" zorder="8" filename="text4564578" left="665" top="295" width="94" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KMjQg
+T1JBUw0KTkVXUyBUVg0K
+</rvf></Component><Component type="3" id="image4" zorder="9" filename="image4587640" left="511" top="361" width="143" height="68" originwidth="960" originheight="707" src="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" thumbname="thumb5401234" resamplename="img5401234" exportfilename="images/24Oras.jpg" lock="1"/><Component type="3" id="image5" zorder="10" filename="image4594593" left="512" top="448" width="143" height="68" originwidth="960" originheight="707" src="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" thumbname="thumb5401250" resamplename="img5401250" exportfilename="images/24Oras.jpg" lock="1"/><Component type="3" id="image6" zorder="11" filename="image4600000" left="512" top="537" width="143" height="68" originwidth="960" originheight="707" src="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\24Oras.jpg" thumbname="thumb5401265" resamplename="img5401265" exportfilename="images/24Oras.jpg" lock="1"/><Component type="2" id="text5" zorder="12" filename="text4616265" left="664" top="376" width="94" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KMjQg
+T1JBUw0KTkVXUyBUVg0K
+</rvf></Component><Component type="2" id="text6" zorder="13" filename="text4625062" left="663" top="460" width="94" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KMjQg
+T1JBUw0KTkVXUyBUVg0K
+</rvf></Component><Component type="2" id="text7" zorder="14" filename="text4632656" left="662" top="548" width="94" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;24 ORAS&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;NEWS TV&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KMjQg
+T1JBUw0KTkVXUyBUVg0K
+</rvf></Component><Component type="3" id="image7" zorder="15" filename="image4751390" left="241" top="195" width="115" height="73" originwidth="200" originheight="147" src="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" thumbname="thumb5401281" resamplename="img5401281" exportfilename="images/Wowowin_Logo.png" lock="1"/><Component type="3" id="image8" zorder="16" filename="image4797312" left="241" top="280" width="115" height="73" originwidth="200" originheight="147" src="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" thumbname="thumb5401296" resamplename="img5401296" exportfilename="images/Wowowin_Logo.png" lock="1"/><Component type="3" id="image9" zorder="17" filename="image4818156" left="241" top="362" width="115" height="73" originwidth="200" originheight="147" src="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" thumbname="thumb5401312" resamplename="img5401312" exportfilename="images/Wowowin_Logo.png" lock="1"/><Component type="3" id="image10" zorder="18" filename="image4837218" left="241" top="449" width="115" height="73" originwidth="200" originheight="147" src="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" thumbname="thumb5401328" resamplename="img5401328" exportfilename="images/Wowowin_Logo.png" lock="1"/><Component type="3" id="image11" zorder="19" filename="image4843953" left="242" top="538" width="115" height="73" originwidth="200" originheight="147" src="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\Wowowin_Logo.png" thumbname="thumb5401343" resamplename="img5401343" exportfilename="images/Wowowin_Logo.png" lock="1"/><Component type="2" id="text8" zorder="20" filename="text4869968" left="373" top="209" width="120" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KV09X
+T1dJTg0KVFYgR0FNRVNIT1cNCg==
+</rvf></Component><Component type="2" id="text9" zorder="21" filename="text4926687" left="375" top="292" width="120" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KV09X
+T1dJTg0KVFYgR0FNRVNIT1cNCg==
+</rvf></Component><Component type="2" id="text10" zorder="22" filename="text4955484" left="376" top="376" width="120" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KV09X
+T1dJTg0KVFYgR0FNRVNIT1cNCg==
+</rvf></Component><Component type="2" id="text11" zorder="23" filename="text4965437" left="378" top="462" width="120" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KV09X
+T1dJTg0KVFYgR0FNRVNIT1cNCg==
+</rvf></Component><Component type="2" id="text12" zorder="24" filename="text4978937" left="377" top="550" width="120" height="50" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;WOWOWIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;TV GAMESHOW&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KV09X
+T1dJTg0KVFYgR0FNRVNIT1cNCg==
+</rvf></Component><Component type="10" id="roundrect1" zorder="25" filename="roundrect5477046" width="1194" height="40" fillstyle="0" spborder="0" fromcolor="#C0C0C0" shapetype="1" radius="20" previewfile="C:\Users\Windows\AppData\Local\Temp\Web Page Maker\docMS1Q4\shape70M8A.gif" left="128" top="113" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" lock="1" exportfilename="images/roundrect5477046.gif" fp="0"/><Component type="2" id="text13" zorder="26" filename="text5560812" left="144" top="120" width="438" height="31" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;VIEW TV SCHEDULE BY NETWORK FOR 2019-2020&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;VIEW TV SCHEDULE BY NETWORK FOR 2019-2020&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIOBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQow
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMSAxIDAgMCAwIDANClZJRVcgVFYgU0NIRURVTEUgQlkgTkVU
+V09SSyBGT1IgMjAxOS0yMDIwDQo=
+</rvf></Component><Component type="3" id="image12" zorder="27" filename="image6483562" left="787" top="194" width="135" height="75" originwidth="368" originheight="204" src="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" lock="1"/><Component type="3" id="image13" zorder="28" filename="image6516125" left="787" top="278" width="135" height="75" originwidth="368" originheight="204" src="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" lock="1"/><Component type="3" id="image14" zorder="29" filename="image6526453" left="786" top="361" width="135" height="75" originwidth="368" originheight="204" src="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" lock="1"/><Component type="3" id="image15" zorder="30" filename="image6537437" left="787" top="447" width="135" height="75" originwidth="368" originheight="204" src="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" lock="1"/><Component type="3" id="image16" zorder="31" filename="image6565140" left="786" top="535" width="135" height="75" originwidth="368" originheight="204" src="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\superm.jpg" lock="1"/><Component type="2" id="text14" zorder="32" filename="text6653875" left="931" top="199" width="121" height="68" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq+AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQILBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CFN0YW5kYXJkCAhGb250TmFtZQYHQ2FsaWJyaQRTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCn0AAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUIU3RhbmRhcmQICUFsaWdubWVu
+dAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADIgMSAxIDAgMCAwDQpTVVBFUiBNQSdBTQ0KMSAyIDEgMCAwIDANClNVUEVSSEVSTw0KVEVBQ0hF
+Ug0K
+</rvf></Component><Component type="2" id="text15" zorder="33" filename="text6724062" left="930" top="282" width="121" height="68" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq+AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQILBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CFN0YW5kYXJkCAhGb250TmFtZQYHQ2FsaWJyaQRTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCn0AAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUIU3RhbmRhcmQICUFsaWdubWVu
+dAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADIgMSAxIDAgMCAwDQpTVVBFUiBNQSdBTQ0KMSAyIDEgMCAwIDANClNVUEVSSEVSTw0KVEVBQ0hF
+Ug0K
+</rvf></Component><Component type="2" id="text16" zorder="34" filename="text6732281" left="928" top="367" width="121" height="68" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq+AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQILBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CFN0YW5kYXJkCAhGb250TmFtZQYHQ2FsaWJyaQRTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCn0AAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUIU3RhbmRhcmQICUFsaWdubWVu
+dAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADIgMSAxIDAgMCAwDQpTVVBFUiBNQSdBTQ0KMSAyIDEgMCAwIDANClNVUEVSSEVSTw0KVEVBQ0hF
+Ug0K
+</rvf></Component><Component type="2" id="text17" zorder="35" filename="text6745453" left="928" top="449" width="121" height="68" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq+AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQILBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CFN0YW5kYXJkCAhGb250TmFtZQYHQ2FsaWJyaQRTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCn0AAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUIU3RhbmRhcmQICUFsaWdubWVu
+dAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADIgMSAxIDAgMCAwDQpTVVBFUiBNQSdBTQ0KMSAyIDEgMCAwIDANClNVUEVSSEVSTw0KVEVBQ0hF
+Ug0K
+</rvf></Component><Component type="2" id="text18" zorder="36" filename="text6756109" left="928" top="537" width="121" height="68" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:19px;"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:15px;"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws14"&gt;&lt;B&gt;SUPER MA'AM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;SUPERHERO&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws11"&gt;&lt;B&gt;TEACHER&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq+AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQILBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CFN0YW5kYXJkCAhGb250TmFtZQYHQ2FsaWJyaQRTaXplAg4FU3R5bGULBmZzQm9sZAAAAC05IDIg
+MCAwIDIgMCAyDQpydnMNCn0AAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUIU3RhbmRhcmQICUFsaWdubWVu
+dAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADIgMSAxIDAgMCAwDQpTVVBFUiBNQSdBTQ0KMSAyIDEgMCAwIDANClNVUEVSSEVSTw0KVEVBQ0hF
+Ug0K
+</rvf></Component><Component type="3" id="image17" zorder="37" filename="image6814625" left="1064" top="194" width="129" height="76" originwidth="419" originheight="265" src="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" lock="1"/><Component type="3" id="image18" zorder="38" filename="image6851781" left="1064" top="278" width="129" height="76" originwidth="419" originheight="265" src="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" lock="1"/><Component type="3" id="image19" zorder="39" filename="image6861875" left="1064" top="361" width="129" height="76" originwidth="419" originheight="265" src="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" lock="1"/><Component type="3" id="image20" zorder="40" filename="image6874734" left="1064" top="448" width="129" height="76" originwidth="419" originheight="265" src="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" lock="1"/><Component type="3" id="image21" zorder="41" filename="image6886031" left="1064" top="534" width="129" height="76" originwidth="419" originheight="265" src="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" previewfile="D:\MyFIles\IT273 Web Systems\Ruel\alyasrobin.jpg" lock="1" selected="1"/><Component type="2" id="text19" zorder="42" filename="text6899484" left="1197" top="207" width="116" height="47" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KQUxZ
+QVMgUk9CSU4NCkhPT0QNCg==
+</rvf></Component><Component type="2" id="text20" zorder="43" filename="text7103093" left="1197" top="293" width="116" height="47" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KQUxZ
+QVMgUk9CSU4NCkhPT0QNCg==
+</rvf></Component><Component type="2" id="text21" zorder="44" filename="text7115140" left="1196" top="375" width="116" height="47" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KQUxZ
+QVMgUk9CSU4NCkhPT0QNCg==
+</rvf></Component><Component type="2" id="text22" zorder="45" filename="text7126937" left="1195" top="461" width="116" height="47" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KQUxZ
+QVMgUk9CSU4NCkhPT0QNCg==
+</rvf></Component><Component type="2" id="text23" zorder="46" filename="text7137734" left="1195" top="542" width="116" height="47" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;ALYAS ROBIN&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Calibri" class="ws12"&gt;&lt;B&gt;HOOD&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp0AAAADgEJU3R5bGVOYW1lBgpGb250IFN0eWxl
+CEZvbnROYW1lBgVBcmlhbAABCVN0eWxlTmFtZQYKRm9udCBTdHlsZQhTdGFuZGFyZAgIRm9udE5h
+bWUGB0NhbGlicmkEU2l6ZQIMBVN0eWxlCwZmc0JvbGQAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQp9
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAxIDIgMSAwIDAgMA0KQUxZ
+QVMgUk9CSU4NCkhPT0QNCg==
+</rvf></Component></body></page></site>
